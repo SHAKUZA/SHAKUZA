@@ -1,3 +1,8 @@
+# Hi, I'm Roman 👋
+Trainee \ Junior Front-End Dev with <1 year experience. I have basic knowledge in front development on HTML\CSS.
+I want to learn more and practice more... And searching someone)
+
+
 - 👋 Hi, I’m @SHAKUZA
 - 👀 I’m interested in Photography and Front-End Developer
 - 🌱 I’m currently learning Front-End and etc
@@ -6,7 +11,10 @@
 - 🌱 I’m currently learning Udemy Courses - HTML\CSS\JS + React, Bootstrap (basic lvl)
 - 👯 I’m looking to collaborate on ... any project, who can give a exp. in dev;
 - 💬 Ask me about ... something about photo and i can help you))
-
+- 
+## 🛠 Technical Stack
+*   JS/HTML-CSS/Bootstrap/React languages
+*   GitHub/GitLab
 
 ![image]({https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white}) https://t.me/staygoldstayfrosty
 ![image]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}) https://instagram.com/rublev.live
