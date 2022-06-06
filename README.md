@@ -1,4 +1,4 @@
-# Hi, I'm Roman 👋
+# Hi, I'm Kirill Rublev 👋
 Trainee \ Junior Front-End Dev with <1 year experience. I have basic knowledge in front development on HTML\CSS.
 I want to learn more and practice more... And searching someone)
 
